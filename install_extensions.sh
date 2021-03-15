@@ -4,12 +4,14 @@ code --install-extension akamud.vscode-theme-onelight
 code --install-extension Angular.ng-template
 code --install-extension arcticicestudio.nord-visual-studio-code
 code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension bradlc.vscode-tailwindcss
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
 code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
+code --install-extension James-Yu.latex-workshop
 code --install-extension mrmlnc.vscode-scss
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension muhammad-sammy.csharp
